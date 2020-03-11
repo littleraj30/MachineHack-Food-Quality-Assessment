@@ -1,3 +1,5 @@
+# 4th place solution
+![](LeaderBoard.png)
 # MachineHack-Food-Quality-Assessment
 
 MachineHack is back with an exciting hackathon and this time we challenge the women in the analytics space. As AIM prepares itself for the 2nd Edition of the Women in Analytics Conference – The Rising 2020, we look forward to women data scientists to take part in this exciting hackathon to stand a chance to win free passes to the conference.
